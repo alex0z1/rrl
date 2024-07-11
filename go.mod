@@ -1,4 +1,4 @@
-module github.com/coredns/rrl
+module github.com/alex0z1/rrl
 
 go 1.16
 
